@@ -1,11 +1,12 @@
 {
     "name": "sajad-dev/code-judge",
+    "version": "1.0.0",
     "description": "",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "ssajad pourajam",
+            "name": "sajad pourajam",
             "email": "prj.sajad85@gmail.com"
         }
     ],
