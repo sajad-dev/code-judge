@@ -1,4 +1,4 @@
-# Code Judge System | سیستم داوری کد
+# Code Judge System 
 
 This Laravel package provides a Code Judge system for evaluating programming solutions. Participants can submit their code, and the system will automatically test it against predefined test cases, returning a score and a log of the results. It supports Laravel 11 and is designed to be easily integrated into existing projects.
 
