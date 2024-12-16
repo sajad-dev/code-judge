@@ -20,13 +20,13 @@ Follow these steps to set up the package: (برای راه‌اندازی پکی
 1. Install the package via Composer: (نصب پکیج از طریق Composer)
 
 ```bash
-composer require your-vendor/code-judge
+composer require sajad-dev/code-judge
 ```
 
 2. Publish the package assets: (انتشار منابع پکیج)
 
 ```bash
-php artisan vendor:publish --provider="YourVendor\CodeJudge\CodeJudgeServiceProvider"
+php artisan vendor:publish --provider="SajadDev\CodeJudge\CodeJudgeServiceProvider"
 ```
 3. Run the migrations to create the necessary database tables: (اجرای میگریشن‌ها برای ایجاد جداول دیتابیس مورد نیاز)
 
